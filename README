@@ -1,4 +1,3 @@
-This is your new Play application
-=================================
+Most of the expressions included in test data, as well as Hex'es name come from the books by Terry Pratchett who owns rights for them.
 
-This file will be packaged with your application, when using `activator dist`.
+Lambda calculus evaluation was shamelessly copied from: http://zeroturnaround.com/rebellabs/what-is-lambda-calculus-and-why-should-you-care/
